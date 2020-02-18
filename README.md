@@ -2,7 +2,7 @@
 
 This repository contains the code that is based on the React Native + Expo.
 
-https://github.com/AdamOnLinux/pet_id_app.git
+https://github.com/AceBerry924/pet-id-app.git
 
 
 ### Setup Application in Local Environment
